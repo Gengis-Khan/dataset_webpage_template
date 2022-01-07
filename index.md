@@ -1,3 +1,5 @@
+<link rel="icon" type="image/x-icon" href="knowdive_logo" />
+
 # Dataset Description
 This section should highlight the main features of the datasets and list the sources of data, that will be detailed in the subparagraphs. Usually the sources of data are (i) Online questionnaire (synchronic); (ii) ESM/EMA (diachronic); Sensor data (diachronic).
 
